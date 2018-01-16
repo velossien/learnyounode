@@ -1,3 +1,5 @@
-# learnyounode
+# README
 
-A repo that contains all my code that I wrote while following Learn You Node (https://github.com/workshopper/learnyounode).
+## LearnYouNode Solutions
+
+My solutions for the LearnYouNode [workshop](https://github.com/workshopper/learnyounode) from [NodeSchool](https://nodeschool.io).
